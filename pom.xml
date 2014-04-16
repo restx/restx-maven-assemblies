@@ -10,7 +10,7 @@
 
   <groupId>io.restx</groupId>
   <artifactId>restx-maven-assemblies</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 
   <issueManagement>
       <system>github</system>
